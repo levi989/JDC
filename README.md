@@ -1,4 +1,4 @@
-Junkcoin - a fork of Litecoin version with random bonus blocks. Like Litecoin it uses scrypt as a proof of work scheme.
+Johncoin - a fork of Litecoin version with random bonus blocks. Like Bankruptcoin it uses bank as a proof of work scheme.
 
 	- Total coins will be around 54 millions
 	- Mining will be shut down after 12 years.
@@ -39,5 +39,5 @@ after the warning if action is not taken by the author. Pull requests closed
 in this manner will have their corresponding issue labeled 'stagnant'.
 
 Issues with no commits will be given a similar warning, and closed after
-15 days from their last activity. Issues closed in this manner will be 
+?? days from their last activity. Issues closed in this manner will be 
 labeled 'stale'. 
