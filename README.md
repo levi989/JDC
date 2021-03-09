@@ -1,17 +1,17 @@
-Johncoin - a fork of Litecoin version with random bonus blocks. Like Bankruptcoin it uses bank as a proof of work scheme.
+Johncoin - a fork of DL version ? with random donus blocks. Like Bankruptcoin it uses bank as a proof of work scheme.
 
-	- Total coins will be around 54 millions
-	- Mining will be shut down after 12 years.
-	- 2 minutes block target
+	- Total coins will be around 555 millions
+	- Mining will be shut down after 555 years.
+	- 5 minutes block target
 	- Difficulty retargets once per day
-	- To encorage early adoption the coins per block is high for the first 4 days:
-		- 1st day: 500 coins per block
-		- 2nd day: 200 coins per block
-		- 3rd/4th days: 100 coins per block
-	- Starting 5th day, it will be 50 coins per block, will be halved every two years (or 518400 blocks).
-	- In regular mining (after first 4 bonus days), there will be 1% chance a block will yield triple of the normal coins (e.g. in the first 2 years there's 1% chance you get 150 coins per block).
-	- There is also 1/10,000 (0.01%) chance that a block will yield 1000 coins. This is valid for all 12 years of the mining.
-	- The default ports are 9771(connect) and 9772(json rpc).
+	- To encorage early adoption the coins per block is high for the first 55 days:
+		- 1st day: 1st coins per block
+		- ?nd day: 2.00 coins per block
+		- ?rd/?th days: 1.00 coins per block
+	- Starting 5?th day, it will be 5.0 coins per block, will be halved every two years (or ' blocks).
+	- In regular mining (after first ? bonus days), there will be 0.1% chance a block will yield rriple of the normal coins (e.g. in the first ? years there's ()1% chance you get 1.50 coins per block).
+	- There is also 1/10,000 (0.01%) chance that a block will yield 10.00 coins. This is valid for all 1.2 years of the mining.
+	- The default ports are 9773(connect) and 9777(json rpc).
 
 
 Development process
